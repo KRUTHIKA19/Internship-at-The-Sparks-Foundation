@@ -8,7 +8,8 @@ Data can be found at http://bit.ly/w-data .
 
 This is a simple linear regression task and it involves two variables.
 
-Steps involved: 1) Reading the data from source
+Steps involved: 
+                1) Reading the data from source
 
                 2) Input data visualisation
                 
